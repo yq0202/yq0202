@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yq0202
 - 👀 I’m interested in play mahjong
 - 🌱 I’m currently learning CJCU
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me IG yq-0202
 
 <!---
