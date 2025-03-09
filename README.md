@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @yq0202
-- 👀 I’m interested in play mahjong
-- 🌱 I’m currently learning CJCU
-- 📫 How to reach me IG yq-0202
-
-<!---
-yq0202/yq0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 哈囉我是張貽茜
+- 👀 我喜歡打麻將、騎車
+- 🌱 長榮大學航運管理學系
+- 📫 IG：yq_o2o2
